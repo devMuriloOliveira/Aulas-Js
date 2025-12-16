@@ -1,0 +1,1 @@
+console.log(414 * "não é um número")
